@@ -2,7 +2,7 @@
 from telegram.ext import *
 import subprocess as ss
 
-telegram_token = '7438189235:AAGEf25Aoalvzj77iroVbJ67Xc_NppEoBgw'
+telegram_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 updater = Updater(telegram_token, use_context=True)
 dispatcher = updater.dispatcher
